@@ -1,0 +1,41 @@
+body {
+  font-family: "Source Code Pro", monospace;
+  color: #222;
+  background-color: #fff;
+  padding: 0;
+  margin: 0;
+}
+a:link {
+  color: #222;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "asap", "sans-serif";
+}
+h5 {
+  margin-bottom: 0;
+}
+input,
+select,
+button {
+  font-size: 16px;
+  font-family: "Source Code Pro", monospace;
+  color: #444;
+}
+select {
+  font-size: 12px;
+}
+.input-label {
+  display: inline-block;
+  padding-left: 4px;
+  font-size: 12px;
+}
+input {
+  border-radius: 0px 0px 4px 4px;
+  border: none;
+  border: 1px solid #c4c4c4;
+  padding: 2px 8px;
+}
