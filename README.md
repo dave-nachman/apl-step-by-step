@@ -1,6 +1,6 @@
 # APL step-by-step
 
-**APL step-by-step** is a work-in-progress [interactive environment](https://hungry-kepler-29a834.netlify.app) for exploring the [APL programming language](<https://en.wikipedia.org/wiki/APL_(programming_language)>), with its own implementation of an incomplete subset of APL.
+**APL step-by-step** is a work-in-progress [interactive environment](https://apl-steps.netlify.app) for exploring the [APL programming language](<https://en.wikipedia.org/wiki/APL_(programming_language)>), with its own implementation of an incomplete subset of APL.
 
 This was built during a mini-retreat at the [Recurse Center](https://www.recurse.com/).
 
